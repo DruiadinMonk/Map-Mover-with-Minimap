@@ -1,0 +1,18 @@
+Map Mover is a map that moves, but the character (object) does not.
+
+
+Character
+	Circle in middle width/2 and height/2
+
+Map
+	200% size of window displayed.
+
+	Small squares on floor to resemble movement.
+	
+1st Edition
+	Only Character and background.
+
+3nd edition
+	Character, background, AND a minimap.
+	Main view: 	Background moves, showing only character's field of vision.
+	2nd view: 	Character moves, showing full map.
